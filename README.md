@@ -24,7 +24,12 @@ Would love to collab and work on projects.
 
 # You can check out websites that i have worked on.
 
+- Generates random recipes that one can cook in their free time. Read more about this by clicking the link:https://github.com/dhaneshwaritendle/dhaneshwaritendle.github.io
+Get Redirected to the website by clicking the following link: https://dhaneshwaritendle.github.io/
 
+- Polling web application using django framework :https://github.com/dhaneshwaritendle/Polling
+
+- The hospital bed management: https://github.com/dhaneshwaritendle/Java-Mini-Project
 
 # GitHub streaks
 
