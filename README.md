@@ -31,13 +31,6 @@ Get Redirected to the website by clicking the following link: https://dhaneshwar
 
 - The hospital bed management: https://github.com/dhaneshwaritendle/Java-Mini-Project
 
-# GitHub streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhaneshwaritendle&theme=white&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-
-# GitHub stats
-
-![Dhaneshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaneshwaritendle)
 
 
 
