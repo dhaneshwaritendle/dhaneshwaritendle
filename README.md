@@ -32,7 +32,8 @@ Get Redirected to the website by clicking the following link: https://dhaneshwar
 - The hospital bed management: https://github.com/dhaneshwaritendle/Java-Mini-Project
 
 
-
+#stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhaneshwaritendle)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
