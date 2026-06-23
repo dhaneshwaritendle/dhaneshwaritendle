@@ -3,7 +3,6 @@
 
 # 👋 Hello there! I am Dhaneshwari Tendle
 
-🏫 I'm currently studying in Don Bosco Institute of technology,Mumbai.<br>
 🧗 I am climbing the ladder to become a full stack developer.<br>
 📽️ Would love to collab and work on projects.<br>
 🔭 I’m currently working on logic building.<br>
@@ -19,6 +18,7 @@
 
 # You can checkout some of my work and me !!
 
+- My [portfolio website](https://github.com/dhaneshwaritendle/Portfolio)
 - Generates random recipes that one can cook in their free time. Read more about this by clicking the link:https://github.com/dhaneshwaritendle/dhaneshwaritendle.github.io
 Get Redirected to the website by clicking the following link: https://dhaneshwaritendle.github.io/
 
